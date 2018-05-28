@@ -1,0 +1,2 @@
+Added "watch": true to tsconfig file in order to auto compile ts files to js files 
+In order to invoke use "tsc -w" in the command line 
